@@ -1,0 +1,6403 @@
+fileFormatVersion: 2
+guid: 174d439f18e904546b550e0caef43ade
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_0
+  - first:
+      213: 21300002
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_1
+  - first:
+      213: 21300004
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_2
+  - first:
+      213: 21300006
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_3
+  - first:
+      213: 21300008
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_4
+  - first:
+      213: 21300010
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_5
+  - first:
+      213: 21300012
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_6
+  - first:
+      213: 21300014
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_7
+  - first:
+      213: 21300016
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_8
+  - first:
+      213: 21300018
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_9
+  - first:
+      213: 21300020
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_10
+  - first:
+      213: 21300022
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_11
+  - first:
+      213: 21300024
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_12
+  - first:
+      213: 21300026
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_13
+  - first:
+      213: 21300028
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_14
+  - first:
+      213: 21300030
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_15
+  - first:
+      213: 21300032
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_16
+  - first:
+      213: 21300034
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_17
+  - first:
+      213: 21300036
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_18
+  - first:
+      213: 21300038
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_19
+  - first:
+      213: 21300040
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_20
+  - first:
+      213: 21300042
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_21
+  - first:
+      213: 21300044
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_22
+  - first:
+      213: 21300046
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_23
+  - first:
+      213: 21300048
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_24
+  - first:
+      213: 21300050
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_25
+  - first:
+      213: 21300052
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_26
+  - first:
+      213: 21300054
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_27
+  - first:
+      213: 21300056
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_28
+  - first:
+      213: 21300058
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_29
+  - first:
+      213: 21300060
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_30
+  - first:
+      213: 21300062
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_31
+  - first:
+      213: 21300064
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_32
+  - first:
+      213: 21300066
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_33
+  - first:
+      213: 21300068
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_34
+  - first:
+      213: 21300070
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_35
+  - first:
+      213: 21300072
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_36
+  - first:
+      213: 21300074
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_37
+  - first:
+      213: 21300076
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_38
+  - first:
+      213: 21300078
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_39
+  - first:
+      213: 21300080
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_40
+  - first:
+      213: 21300082
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_41
+  - first:
+      213: 21300084
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_42
+  - first:
+      213: 21300086
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_43
+  - first:
+      213: 21300088
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_44
+  - first:
+      213: 21300090
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_45
+  - first:
+      213: 21300092
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_46
+  - first:
+      213: 21300094
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_47
+  - first:
+      213: 21300096
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_48
+  - first:
+      213: 21300098
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_49
+  - first:
+      213: 21300100
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_50
+  - first:
+      213: 21300102
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_51
+  - first:
+      213: 21300104
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_52
+  - first:
+      213: 21300106
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_53
+  - first:
+      213: 21300108
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_54
+  - first:
+      213: 21300110
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_55
+  - first:
+      213: 21300112
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_56
+  - first:
+      213: 21300114
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_57
+  - first:
+      213: 21300116
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_58
+  - first:
+      213: 21300118
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_59
+  - first:
+      213: 21300120
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_60
+  - first:
+      213: 21300122
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_61
+  - first:
+      213: 21300124
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_62
+  - first:
+      213: 21300126
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_63
+  - first:
+      213: 21300128
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_64
+  - first:
+      213: 21300130
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_65
+  - first:
+      213: 21300132
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_66
+  - first:
+      213: 21300134
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_67
+  - first:
+      213: 21300136
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_68
+  - first:
+      213: 21300138
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_69
+  - first:
+      213: 21300140
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_70
+  - first:
+      213: 21300142
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_71
+  - first:
+      213: 21300144
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_72
+  - first:
+      213: 21300146
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_73
+  - first:
+      213: 21300148
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_74
+  - first:
+      213: 21300150
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_75
+  - first:
+      213: 21300152
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_76
+  - first:
+      213: 21300154
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_77
+  - first:
+      213: 21300156
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_78
+  - first:
+      213: 21300158
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_79
+  - first:
+      213: 21300160
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_80
+  - first:
+      213: 21300162
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_81
+  - first:
+      213: 21300164
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_82
+  - first:
+      213: 21300166
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_83
+  - first:
+      213: 21300168
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_84
+  - first:
+      213: 21300170
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_85
+  - first:
+      213: 21300172
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_86
+  - first:
+      213: 21300174
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_87
+  - first:
+      213: 21300176
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_88
+  - first:
+      213: 21300178
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_89
+  - first:
+      213: 21300180
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_90
+  - first:
+      213: 21300182
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_91
+  - first:
+      213: 21300184
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_92
+  - first:
+      213: 21300186
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_93
+  - first:
+      213: 21300188
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_94
+  - first:
+      213: 21300190
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_95
+  - first:
+      213: 21300192
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_96
+  - first:
+      213: 21300194
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_97
+  - first:
+      213: 21300196
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_98
+  - first:
+      213: 21300198
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_99
+  - first:
+      213: 21300200
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_100
+  - first:
+      213: 21300202
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_101
+  - first:
+      213: 21300204
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_102
+  - first:
+      213: 21300206
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_103
+  - first:
+      213: 21300208
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_104
+  - first:
+      213: 21300210
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_105
+  - first:
+      213: 21300212
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_106
+  - first:
+      213: 21300214
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_107
+  - first:
+      213: 21300216
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_108
+  - first:
+      213: 21300218
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_109
+  - first:
+      213: 21300220
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_110
+  - first:
+      213: 21300222
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_111
+  - first:
+      213: 21300224
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_112
+  - first:
+      213: 21300226
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_113
+  - first:
+      213: 21300228
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_114
+  - first:
+      213: 21300230
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_115
+  - first:
+      213: 21300232
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_116
+  - first:
+      213: 21300234
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_117
+  - first:
+      213: 21300236
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_118
+  - first:
+      213: 21300238
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_119
+  - first:
+      213: 21300240
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_120
+  - first:
+      213: 21300242
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_121
+  - first:
+      213: 21300244
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_122
+  - first:
+      213: 21300246
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_123
+  - first:
+      213: 21300248
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_124
+  - first:
+      213: 21300250
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_125
+  - first:
+      213: 21300252
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_126
+  - first:
+      213: 21300254
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_127
+  - first:
+      213: 21300256
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_128
+  - first:
+      213: 21300258
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_129
+  - first:
+      213: 21300260
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_130
+  - first:
+      213: 21300262
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_131
+  - first:
+      213: 21300264
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_132
+  - first:
+      213: 21300266
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_133
+  - first:
+      213: 21300268
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_134
+  - first:
+      213: 21300270
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_135
+  - first:
+      213: 21300272
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_136
+  - first:
+      213: 21300274
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_137
+  - first:
+      213: 21300276
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_138
+  - first:
+      213: 21300278
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_139
+  - first:
+      213: 21300280
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_140
+  - first:
+      213: 21300282
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_141
+  - first:
+      213: 21300284
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_142
+  - first:
+      213: 21300286
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_143
+  - first:
+      213: 21300288
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_144
+  - first:
+      213: 21300290
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_145
+  - first:
+      213: 21300292
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_146
+  - first:
+      213: 21300294
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_147
+  - first:
+      213: 21300296
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_148
+  - first:
+      213: 21300298
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_149
+  - first:
+      213: 21300300
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_150
+  - first:
+      213: 21300302
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_151
+  - first:
+      213: 21300304
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_152
+  - first:
+      213: 21300306
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_153
+  - first:
+      213: 21300308
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_154
+  - first:
+      213: 21300310
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_155
+  - first:
+      213: 21300312
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_156
+  - first:
+      213: 21300314
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_157
+  - first:
+      213: 21300316
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_158
+  - first:
+      213: 21300318
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_159
+  - first:
+      213: 21300320
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_160
+  - first:
+      213: 21300322
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_161
+  - first:
+      213: 21300324
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_162
+  - first:
+      213: 21300326
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_163
+  - first:
+      213: 21300328
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_164
+  - first:
+      213: 21300330
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_165
+  - first:
+      213: 21300332
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_166
+  - first:
+      213: 21300334
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_167
+  - first:
+      213: 21300336
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_168
+  - first:
+      213: 21300338
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_169
+  - first:
+      213: 21300340
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_170
+  - first:
+      213: 21300342
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_171
+  - first:
+      213: 21300344
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_172
+  - first:
+      213: 21300346
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_173
+  - first:
+      213: 21300348
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_174
+  - first:
+      213: 21300350
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_175
+  - first:
+      213: 21300352
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_176
+  - first:
+      213: 21300354
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_177
+  - first:
+      213: 21300356
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_178
+  - first:
+      213: 21300358
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_179
+  - first:
+      213: 21300360
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_180
+  - first:
+      213: 21300362
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_181
+  - first:
+      213: 21300364
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_182
+  - first:
+      213: 21300366
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_183
+  - first:
+      213: 21300368
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_184
+  - first:
+      213: 21300370
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_185
+  - first:
+      213: 21300372
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_186
+  - first:
+      213: 21300374
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_187
+  - first:
+      213: 21300376
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_188
+  - first:
+      213: 21300378
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_189
+  - first:
+      213: 21300380
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_190
+  - first:
+      213: 21300382
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_191
+  - first:
+      213: 21300384
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_192
+  - first:
+      213: 21300386
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_193
+  - first:
+      213: 21300388
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_194
+  - first:
+      213: 21300390
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_195
+  - first:
+      213: 21300392
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_196
+  - first:
+      213: 21300394
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_197
+  - first:
+      213: 21300396
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_198
+  - first:
+      213: 21300398
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_199
+  - first:
+      213: 21300400
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_200
+  - first:
+      213: 21300402
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_201
+  - first:
+      213: 21300404
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_202
+  - first:
+      213: 21300406
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_203
+  - first:
+      213: 21300408
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_204
+  - first:
+      213: 21300410
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_205
+  - first:
+      213: 21300412
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_206
+  - first:
+      213: 21300414
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_207
+  - first:
+      213: 21300416
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_208
+  - first:
+      213: 21300418
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_209
+  - first:
+      213: 21300420
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_210
+  - first:
+      213: 21300422
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_211
+  - first:
+      213: 21300424
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_212
+  - first:
+      213: 21300426
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_213
+  - first:
+      213: 21300428
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_214
+  - first:
+      213: 21300430
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_215
+  - first:
+      213: 21300432
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_216
+  - first:
+      213: 21300434
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_217
+  - first:
+      213: 21300436
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_218
+  - first:
+      213: 21300438
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_219
+  - first:
+      213: 21300440
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_220
+  - first:
+      213: 21300442
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_221
+  - first:
+      213: 21300444
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_222
+  - first:
+      213: 21300446
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_223
+  - first:
+      213: 21300448
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_224
+  - first:
+      213: 21300450
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_225
+  - first:
+      213: 21300452
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_226
+  - first:
+      213: 21300454
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_227
+  - first:
+      213: 21300456
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_228
+  - first:
+      213: 21300458
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_229
+  - first:
+      213: 21300460
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_230
+  - first:
+      213: 21300462
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_231
+  - first:
+      213: 21300464
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_232
+  - first:
+      213: 21300466
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_233
+  - first:
+      213: 21300468
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_234
+  - first:
+      213: 21300470
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_235
+  - first:
+      213: 21300472
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_236
+  - first:
+      213: 21300474
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_237
+  - first:
+      213: 21300476
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_238
+  - first:
+      213: 21300478
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_239
+  - first:
+      213: 21300480
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_240
+  - first:
+      213: 21300482
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_241
+  - first:
+      213: 21300484
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_242
+  - first:
+      213: 21300486
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_243
+  - first:
+      213: 21300488
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_244
+  - first:
+      213: 21300490
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_245
+  - first:
+      213: 21300492
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_246
+  - first:
+      213: 21300494
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_247
+  - first:
+      213: 21300496
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_248
+  - first:
+      213: 21300498
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_249
+  - first:
+      213: 21300500
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_250
+  - first:
+      213: 21300502
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_251
+  - first:
+      213: 21300504
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_252
+  - first:
+      213: 21300506
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_253
+  - first:
+      213: 21300508
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_254
+  - first:
+      213: 21300510
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_255
+  - first:
+      213: 21300512
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_256
+  - first:
+      213: 21300514
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_257
+  - first:
+      213: 21300516
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_258
+  - first:
+      213: 21300518
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_259
+  - first:
+      213: 21300520
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_260
+  - first:
+      213: 4611424347204230157
+    second: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_261
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 34
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3960
+        width: 73
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a42485c4f362041b2cf0fcbc852c2a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_1
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 4021
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7e483e42c446742aa8ecb0e16c316a
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_2
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 3686
+        width: 361
+        height: 418
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6f27c0331a65f14b9f5d75317356b25
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_3
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3824
+        width: 176
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56958989f708c9d4f89caaf1a81ed2d3
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3824
+        width: 76
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a33931980f3b5e4bb865ed765dd3f66
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_5
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3824
+        width: 75
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a4cb3d81e50564989231f2a5566d72
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 3879
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1a5423fcfca9d54dbbff6f87fc75e23
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_7
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3684
+        width: 66
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64257161e99ecd44ab6581deff70d201
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3684
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f38bdf23224174893b465396614026
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3684
+        width: 79
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b64f7a1589b1ef4996855b65c647f0f
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_10
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 3684
+        width: 74
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda6363b071714648ac206d4e9ae03df
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_11
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3684
+        width: 76
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cf9b76a0796124aa47a8ce7a2cfb06
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_12
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 3686
+        width: 76
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855bd683cc471da4b9b417e4b42a61d4
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_13
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 3686
+        width: 64
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57619e79ea001654b9f4f698c9c9557e
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_14
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3686
+        width: 52
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a18b604fb02c384ab104ace32a6fed4
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_15
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 3686
+        width: 58
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e853e05c1a3f444a2e89f6834e6f65
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_16
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 3686
+        width: 75
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d753f38e2dc9d6743b256480eacfc486
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_17
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 3686
+        width: 84
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aef84e3d68596ab46a0ed781b20aecc8
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_18
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 3686
+        width: 81
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5300594b8d67c0542be2639216ae2648
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_19
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 3686
+        width: 76
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4cd0e5dee590a4fb31cf4839b12b3e
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_20
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 3686
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a504200533ef7c84f9fb05a7fe4aa3bd
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_21
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 3686
+        width: 68
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c518e96daf1264bbcb13d822256fea
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_22
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 3743
+        width: 76
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaeed8d1c14da9f43b95f77e5de95b59
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_23
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3546
+        width: 58
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ac018600a661f4b9b43fcf55540911
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_24
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3546
+        width: 74
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9447de2ea5cef4d8091964085e6ada
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_25
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 3543
+        width: 85
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4f52b352d6a1514ca10fada35139d77
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 3546
+        width: 78
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0656970fcb0dcb64ab578211c33d081c
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_27
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 3546
+        width: 76
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e71ddc089fae8f4ca8f616688115f8a
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_28
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 3546
+        width: 78
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e808622b7eb2e141b38b669c058c584
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_29
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 3546
+        width: 66
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a9cdb5d87f6974b94293d173acea18
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_30
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 3546
+        width: 62
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47246df6afee510499e72f2516252a79
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_31
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 3542
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528b3e8cf331fec458a13e1d43fd7c01
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_32
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 3546
+        width: 76
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ac80f02a4d9b742b00ececf166db9b
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_33
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 3546
+        width: 79
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37395cca4a042904a86010c313ef2f69
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_34
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 3543
+        width: 81
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a0222754aaa7f418186ccb6100a137
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_35
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 3546
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61aaa8c1436e934439a9dfd4cdff54aa
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_36
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 3546
+        width: 73
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612a14157c4ef924c8dea505c7fd699e
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_37
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 3546
+        width: 64
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd1148014f329946b182ad5928ee035
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_38
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 3546
+        width: 54
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 422538f199a546c4e8916105b481818d
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_39
+      rect:
+        serializedVersion: 2
+        x: 1164
+        y: 3610
+        width: 90
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51da04caf8e02447bf3b85c16bc4938
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_40
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 3408
+        width: 57
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312f85b9ce13696468bb7996f1133d26
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_41
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 3407
+        width: 123
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 668b610c4a819c043918dc38be5b33ae
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 3406
+        width: 129
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf37eb667fa94544081181ad0e16efa2
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_43
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 3406
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7e452435bb5cff4e93765860b5c050c
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_44
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 3406
+        width: 92
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72acc59f325de9429ecc7bef95aac8d
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_45
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 3448
+        width: 76
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebeeec9288ae8f4381653e758909a47
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 3269
+        width: 112
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05971fa14afe5594c8ef005456299d09
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_47
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3269
+        width: 129
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bc0be209b889e4a8c344bea10fe6b1
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_48
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3269
+        width: 132
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652142bdf71abab45b9809a1bcb7e55b
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_49
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 3269
+        width: 130
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f4ea80f90d3d944ade1b6c7d26041c
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_50
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 3269
+        width: 119
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e9b613edb13ef49a5b2647cc6ea04b
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_51
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 3269
+        width: 296
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65e59e5480124bf488695bd731ecf2bf
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_52
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 3269
+        width: 73
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb8dff4854a877a42841b22b637dd95f
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_53
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 3310
+        width: 92
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ac2dc338cd902479df442b424a9d65
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_54
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 3115
+        width: 168
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8422233480df581459db574137d3d776
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_55
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3133
+        width: 77
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c93971e4d7892d4e99cc886dbf773a8
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_56
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 3166
+        width: 88
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7229a82e358b2489db99438a46f641
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_57
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 3167
+        width: 90
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a274cb50afba134780ac4dbf68b4a1c
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_58
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 3151
+        width: 81
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35417a49333cf1242bfc95ecb8cb2612
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_59
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 3115
+        width: 77
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c618e085fc01c6748a0cfb42f7ab071c
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_60
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 3110
+        width: 67
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f347bad47664394eb4bca934a20ffed
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_61
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 3111
+        width: 68
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13b72048e25e1fa43b535a49b95e9cca
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_62
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 3187
+        width: 98
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49a05539f891844092bec996350b7b2
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_63
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2975
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dfe611a3cbc0c47870b27a82dd0fd7
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_64
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2975
+        width: 90
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50475586469b41b46a7546b517b6646f
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_65
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2973
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2aa189dc6e8dc4aa1e4b97c68a5616
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_66
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2975
+        width: 140
+        height: 103
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd1e2366bf5c04745badd9404e1de8f1
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_67
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2973
+        width: 134
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd69f5a2f55f6464fb85b1888268f7b7
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_68
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2975
+        width: 211
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 748fe432f95bcfd4bb85a2b9ecfc5faa
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_69
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 2974
+        width: 147
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e7714c2f25d2043ad61ed8199616b5
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_70
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 2973
+        width: 121
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b1c2c4f3c52c974ba983600fbb76258
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_71
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 3030
+        width: 41
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef3fe45d9249c34d86b171fbc2a1e7b
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_72
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2825
+        width: 80
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336e0c62d57c3e945879d92ae1367767
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_73
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2825
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43457e9597f93243965587bf306cbde
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_74
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2825
+        width: 82
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a050ec04da58724a8642c5e2ed672b9
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_75
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2825
+        width: 76
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbe8767bdc70df743a5664668d16113a
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_76
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2825
+        width: 77
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09c2bce41d334f74bb4e50630a1f250d
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2825
+        width: 73
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e53c34d86d2df47a69c5835de35f59
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_78
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 2825
+        width: 75
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 058843f12c1c2b84080c2e7ef1336cf3
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_79
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 2822
+        width: 73
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1686366f6c18e7c4bb3eeec4b7ec03c5
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_80
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2825
+        width: 304
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a175f66bb1e27194988b0b24b16803ee
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_81
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2684
+        width: 162
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad7fea9b78b1e24c9fdac7e7456669c
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_82
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2684
+        width: 82
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159b1e03644b92e419b965ce01db0025
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_83
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 2684
+        width: 78
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b9f00a4019c644db225c46c2bfc191
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_84
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 2684
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4669fe828bcfb5498dd79ced3006f4b
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_85
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2684
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030bb82fe86b0dc459d12c5179d5a553
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_86
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2684
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43bccd3f9c6dec46b9c82cb4cc83002
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_87
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2684
+        width: 73
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a853e9640fb0ca4d94cea53ccdea9d7
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_88
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 2684
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f365d6d29eac547a46d7cb428fcadc
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_89
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 2684
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e58bcadab7460745bf66a9068debcba
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_90
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 2726
+        width: 26
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e63b06907acd9f648b5c83380186fe3a
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_91
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2741
+        width: 114
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17007e902ca643047a2561ee70ee26d0
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_92
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2556
+        width: 73
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512dd34e041ad204b8fe6da600727fe5
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_93
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2556
+        width: 72
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f84eaa39ab825428d9587bb3852e8a
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_94
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2556
+        width: 65
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301ffa80c80ea0e4294f6a35e847acf5
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_95
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 2556
+        width: 66
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f170a1d26440e4ba65c61ceb9cbe1c
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_96
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 2556
+        width: 91
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3ee55156b95cc44a4680a702091bae
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_97
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 2556
+        width: 98
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8033538d1752648b421a6ffa77b6f9
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_98
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 2556
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a473d4b4697c6eb4cad3033a6aa4d5ba
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_99
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 2556
+        width: 100
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e12a0a197720594aac0ed9f14947c42
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_100
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2556
+        width: 100
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2666918fc6aab6a4a99ab421f840a645
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_101
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2605
+        width: 198
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53367d7f707629418e0f7e96ab87a79
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_102
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2520
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4df9419876f67f4590b104a0e09f44c
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_103
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2452
+        width: 167
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2795c3f08c550ce49bd1115a08fb2ca6
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_104
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2442
+        width: 465
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac69e14f9a50f0b48bc106b97851a4ea
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_105
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2420
+        width: 473
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d239a3151e346194abebf94c74fda3b9
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_106
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2408
+        width: 475
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd44868814533a843aa0777caaaa366a
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_107
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acff7084c221c044aa7d275a16a45ac1
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_108
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 2396
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79e6252722014ee45b8338b7a5979500
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_109
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e099a75af9d85438a3fc167fe744ef
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_110
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2396
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de710193bb7e417448f5e0cdbc0401ae
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_111
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 2396
+        width: 415
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7a4867ca0176e4781d09a5e6980ca1
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_112
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2392
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937ba352cfb0fbb4ebb6e2180325b3d7
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_113
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2380
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0dc095f84cde764daecd58b2e0d6fb2
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_114
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2381
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f963c3edee9305448237f9761b01cec
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_115
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2384
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384c12aec6f240246ad6a858734cc61f
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_116
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 2380
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dececbc396a2be349a1168249411e756
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_117
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 2372
+        width: 119
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4a144e0ec48d44b94253d68652eb91
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_118
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2380
+        width: 219
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd3fab23c712eb4493c0c94b1e401f2
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_119
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2372
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a1ae0d7e0620a458ae637628a3c680
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_120
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2370
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f534cd3da0bd7479725063343c0e3d
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_121
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2372
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e255bb2a841736c4ca2cb3b29b1c8240
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_122
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2370
+        width: 58
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dd7b3448a50bf1469abd7ea8a5705c5
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_123
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2362
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1209d523c40bad347ad0aa0e995f4fdc
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_124
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2358
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36819b5c2a72eb74c8e7ef51abc7497b
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_125
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 2362
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9423521fc3984cb4dba9541922bbd121
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_126
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 2358
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d18aae6b022cce4b933cda8af9ee1ef
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_127
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2332
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7077bb341d502b4ca082981e3d664b8
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_128
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2204
+        width: 84
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41db0e094a96184c8b5c4d8a7749abb
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_129
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 2207
+        width: 92
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ad19a2cd2943c4387f3b0d99ae24c4
+      internalID: 21300258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_130
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2207
+        width: 106
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 417c04c1c5768554abd8bb3873a6778a
+      internalID: 21300260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_131
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 2207
+        width: 126
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54ee1be3c72bc7b478d9702a52b475d7
+      internalID: 21300262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_132
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 2207
+        width: 101
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d106fec8eb9b541867d05094556f36
+      internalID: 21300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_133
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 2207
+        width: 97
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127cb94a8861c9a438d7010967901feb
+      internalID: 21300266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_134
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2204
+        width: 92
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afbf77037bd97247863bf1b1e504f13
+      internalID: 21300268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_135
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 2207
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7474eba1e9446714a984532b4f8a1cd7
+      internalID: 21300270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_136
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2077
+        width: 71
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70c04fd0b64ef6746b6beaaf5d6e579a
+      internalID: 21300272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_137
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 2076
+        width: 89
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44413da681bfed54091660077e5fbcaa
+      internalID: 21300274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_138
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2077
+        width: 76
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e22c4f543b08b47a2256e92e8149af
+      internalID: 21300276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_139
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 2077
+        width: 120
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5728d5211236d74996d85b22ad2b528
+      internalID: 21300278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_140
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 2077
+        width: 120
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88af8b611382990468ea2be4dec956d8
+      internalID: 21300280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_141
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 2077
+        width: 93
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e80d604698b084687bb11d9664f899
+      internalID: 21300282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_142
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 2076
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b38767e143478db489fc97069ff53b56
+      internalID: 21300284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_143
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 2076
+        width: 75
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362d6c72187768e44a53374da5be93a6
+      internalID: 21300286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_144
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1959
+        width: 92
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8b37cece8a46a14db5c7863736766af
+      internalID: 21300288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_145
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1959
+        width: 107
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f55ed8abbb2ed4a846f8efb7deeff9
+      internalID: 21300290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_146
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1959
+        width: 84
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bdd45cac9ebe34f943ee903523a23a
+      internalID: 21300292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_147
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 1956
+        width: 92
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1acf18a3ca00bca499cd4e4dd7bced99
+      internalID: 21300294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_148
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 1931
+        width: 90
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4f44c6b35e612488c308ce12d2fbf5
+      internalID: 21300296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_149
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 1931
+        width: 78
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd7d615bdfb10349ba08cef95c26719
+      internalID: 21300298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_150
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1825
+        width: 130
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6b254b05a72a44ca6293f3393af238
+      internalID: 21300300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_151
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1825
+        width: 143
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8857afc5ddf964895d41b16b946281
+      internalID: 21300302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_152
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1825
+        width: 132
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca0346fe9a51664ab2344f6ab5875bd
+      internalID: 21300304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_153
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 1835
+        width: 140
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf5198e0946add343b584db7fdf99a09
+      internalID: 21300306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_154
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 1845
+        width: 136
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cbcd3be2c264c94fae6c12ba7484783
+      internalID: 21300308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_155
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 1821
+        width: 100
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe7676cb91d4f04b85953c45352d176
+      internalID: 21300310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_156
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1827
+        width: 106
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1712a51a21e7690479c32a91e57609a8
+      internalID: 21300312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_157
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 1827
+        width: 130
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f1d34909e162e648a246c9b94f8323c
+      internalID: 21300314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_158
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 1867
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdcc9f12307b8e458b29e3a1504f73b
+      internalID: 21300316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_159
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 1827
+        width: 116
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1ac31a57fd9734d9bf7837f19053b8
+      internalID: 21300318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_160
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1827
+        width: 102
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 050f9b632d4cdd64b80905e9f9171e84
+      internalID: 21300320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_161
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1829
+        width: 107
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3488e542fa7326b4f9c6aef5e094379b
+      internalID: 21300322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_162
+      rect:
+        serializedVersion: 2
+        x: 1184
+        y: 1833
+        width: 27
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c89ff1a073e334e8de78b2ae52fe74
+      internalID: 21300324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_163
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1758
+        width: 148
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08475087956ea634794072d8f6b919a4
+      internalID: 21300326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_164
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1756
+        width: 153
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e49173c16ef9544e816649ae943df55
+      internalID: 21300328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_165
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1756
+        width: 160
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e771a2576d5b44a9fa2e699ba2d982
+      internalID: 21300330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_166
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1627
+        width: 80
+        height: 115
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dbce653cee4be4d8243ac3fdd7bb1d
+      internalID: 21300332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_167
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1627
+        width: 77
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1435145a6b81354bac3cb518033ddf9
+      internalID: 21300334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_168
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1630
+        width: 91
+        height: 104
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929e3f563d9b69b43a0c0647e86c82ab
+      internalID: 21300336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_169
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1630
+        width: 222
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 554f4ef91af9b0a4a8943f1c046e9d24
+      internalID: 21300338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_170
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1630
+        width: 99
+        height: 110
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8bbcaa54c87e54b8b3cb169a7423b4
+      internalID: 21300340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_171
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 1627
+        width: 407
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 170f030d5829e084185615daa0d45fa4
+      internalID: 21300342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_172
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1628
+        width: 158
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919a91f4267e60748aacb21fa29b69d7
+      internalID: 21300344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_173
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1530
+        width: 116
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92c4f246b533b5418d8878a9c42ad6d
+      internalID: 21300346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_174
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1530
+        width: 121
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f91f7d4d00d3e541bd96a220e061dcb
+      internalID: 21300348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_175
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1422
+        width: 90
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc7af316d45659458ea1c30171168c1
+      internalID: 21300350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_176
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 1422
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a26826cff93774b84bb2c05e1d1265
+      internalID: 21300352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_177
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1419
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6366a064b3db99f408af9d6352b3b71e
+      internalID: 21300354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_178
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 1422
+        width: 89
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f2e9fc9319c114ca32abcba0fb22e3
+      internalID: 21300356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_179
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1410
+        width: 106
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d55b713e56dc045a646e3568285f89
+      internalID: 21300358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_180
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1422
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315c7fcb1c89eca418f20ff992ca091b
+      internalID: 21300360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_181
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1419
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d3ee91e66693f47b940d33071273c1
+      internalID: 21300362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_182
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1422
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7010250b935987247b77de9221c514ac
+      internalID: 21300364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_183
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1422
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9984e108e65467f45b7f2228973a9fab
+      internalID: 21300366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_184
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1422
+        width: 91
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cc1ff27bfdfac4092458141f7592f1
+      internalID: 21300368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_185
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1299
+        width: 291
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d96e2c9f4b95ce40a3d0d770d72846d
+      internalID: 21300370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_186
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1382
+        width: 57
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4fab1fbe769854683d7a001b19f76a
+      internalID: 21300372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_187
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1299
+        width: 128
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d22049b0484c8845b08e70f3c141b76
+      internalID: 21300374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_188
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1302
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0175d92042e908c40a2744ab493a6239
+      internalID: 21300376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_189
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 1296
+        width: 166
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8bd0b72e41708245be33e1a46828768
+      internalID: 21300378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_190
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1296
+        width: 75
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c303de59dd6bfc641b3ffb4731335d02
+      internalID: 21300380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_191
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1296
+        width: 197
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf0d1b78f418d84f998812e8a8edbaa
+      internalID: 21300382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_192
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1153
+        width: 80
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64102a11a1b28134ba5e6707bf78fb82
+      internalID: 21300384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_193
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1296
+        width: 122
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d41021a5fe7bce4ab5185c6ed3c1c01
+      internalID: 21300386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_194
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1153
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2294e3d467099d44bd98a21242f8248
+      internalID: 21300388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_195
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 1153
+        width: 82
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b388e1f8e318fcc48903a7c0bee88ecf
+      internalID: 21300390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_196
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1153
+        width: 79
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46b26b59cd77404abb2c2b3ab79ca4f
+      internalID: 21300392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_197
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1153
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df9cb4d8ea5be94e99ad1e2640bf1ac
+      internalID: 21300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_198
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1153
+        width: 77
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60782587e02e95b42ae415c8594a8a12
+      internalID: 21300396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_199
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1153
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ab045e8fd5f3a41963974efd108f32
+      internalID: 21300398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_200
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1153
+        width: 73
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a9cd245f5ca9614b86765a1312812d9
+      internalID: 21300400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_201
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1153
+        width: 75
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9501389c8ed454458ce578477e580ab
+      internalID: 21300402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_202
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1153
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d53365d60cba5418ed31f32ca7bdf2
+      internalID: 21300404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_203
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1113
+        width: 90
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be80891015ed2534c8097ab2bb058920
+      internalID: 21300406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_204
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1039
+        width: 138
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa4ada243654c445911609b8645fc2a
+      internalID: 21300408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_205
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1039
+        width: 280
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1397364726773de4e8cb51a5a786d730
+      internalID: 21300410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_206
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 1039
+        width: 139
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e5b176b123229439b21c1bb672f27c
+      internalID: 21300412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_207
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 1039
+        width: 138
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4170a9176c1547c4db51ab225e497a16
+      internalID: 21300414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_208
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 1039
+        width: 138
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca517eefd5f8e040b20e16a2f45664e
+      internalID: 21300416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_209
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 1039
+        width: 280
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccd92829d3da3d479ab69215306d0c7
+      internalID: 21300418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_210
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 887
+        width: 80
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89e5b8f2b7004814caa44e7a21a66fc8
+      internalID: 21300420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_211
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 887
+        width: 93
+        height: 118
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7752721a6f595a4cb6e8c52b1323da7
+      internalID: 21300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_212
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 887
+        width: 126
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d04fd67d742c443ac3a3ff93e58861
+      internalID: 21300424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_213
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 887
+        width: 122
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc264b4b75daa4d43a7e79c96485992b
+      internalID: 21300426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_214
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 887
+        width: 117
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7302a0c311f3d546b0488f20f00143d
+      internalID: 21300428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_215
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 887
+        width: 120
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8138f730db1d25469276e9bc0c76eb9
+      internalID: 21300430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_216
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 887
+        width: 84
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a93101509e0a344aa73c8000f4d44e7
+      internalID: 21300432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_217
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 785
+        width: 51
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69d81d0496c0f54aac2b74ddc6aa09a
+      internalID: 21300434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_218
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 809
+        width: 51
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a14712b80176949b46845e6f3bd392
+      internalID: 21300436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_219
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 811
+        width: 50
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f87014ef3dac51d4293fb488b0358521
+      internalID: 21300438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_220
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 785
+        width: 84
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1d61945f27c084185194f39b9ff089
+      internalID: 21300440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_221
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 781
+        width: 191
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53ac2e5d134e42546a9bca863abddc8e
+      internalID: 21300442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_222
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 746
+        width: 87
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a83135427962a4d8b0b9156092a06b
+      internalID: 21300444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_223
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 747
+        width: 88
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b767394c17922f44b4b08ee3c0e836c
+      internalID: 21300446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_224
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 745
+        width: 82
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b0f51031edad042b81db123b43ea5d
+      internalID: 21300448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_225
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 746
+        width: 84
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b38150ca9f6db246bb6174c099a7d89
+      internalID: 21300450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_226
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 746
+        width: 84
+        height: 121
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe3a5cad0a1dcb4ea8c02abbfa799cb
+      internalID: 21300452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_227
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 762
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4cd899b75c2f334fb771894d080b9e5
+      internalID: 21300454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_228
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 765
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36edc402a3a5ecf4885bf3866fab404e
+      internalID: 21300456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_229
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 765
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f08077b07e51ef42aa9824fe451a1ed
+      internalID: 21300458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_230
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 736
+        width: 366
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e591a00df36ff498e396701678e110
+      internalID: 21300460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_231
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 584
+        width: 81
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ade90ce6fb2664f8c8374267436335
+      internalID: 21300462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_232
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 584
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc5e92b258367c4c8c1b71fe3b0cc8b
+      internalID: 21300464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_233
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 584
+        width: 84
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918e78a0ffe7dbc4ca74e88de9cf693d
+      internalID: 21300466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_234
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 584
+        width: 84
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd8cd9fefbe2ce4285ebb245483721f
+      internalID: 21300468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_235
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 574
+        width: 359
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f26e45bb2c11e4f95a5f0eff4d407b
+      internalID: 21300470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_236
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 584
+        width: 84
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55641f0092dfa547909525e9997480a
+      internalID: 21300472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_237
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 584
+        width: 82
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483b935e3455e314eb699d5597f778c6
+      internalID: 21300474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_238
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 584
+        width: 88
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415d795d40d900e42b039430c9ca5849
+      internalID: 21300476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_239
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 584
+        width: 84
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26df0b6db53a64543b908c4aeb320f8e
+      internalID: 21300478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_240
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 434
+        width: 89
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ab0d6cfb9d1e449ac458c962fcb15b
+      internalID: 21300480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_241
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 433
+        width: 83
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89962c386822d0429f0324b4b493089
+      internalID: 21300482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_242
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 432
+        width: 112
+        height: 117
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c5902e8cbf430746b92f341dcd7f75e
+      internalID: 21300484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_243
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 434
+        width: 113
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7a4011e7a1ab9469ac34bb3e93efea
+      internalID: 21300486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_244
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 424
+        width: 482
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a86228364088464784b62a4f61d3bee
+      internalID: 21300488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_245
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 434
+        width: 110
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01dfc8374adfed4495a7d47cb22c673
+      internalID: 21300490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_246
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 434
+        width: 111
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5ab86ce3abda6548a8845e76cae567c
+      internalID: 21300492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_247
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 434
+        width: 112
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36f7329a3df3d2f4b8c084867dd60643
+      internalID: 21300494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_248
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 434
+        width: 110
+        height: 119
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f614684a92c81244b798be3459b05ec
+      internalID: 21300496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_249
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 48
+        width: 293
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4731d44e72d2b4887c7172f593765c
+      internalID: 21300498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_250
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 63
+        width: 233
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9490e357c90b414a8d755dcee13a72d
+      internalID: 21300500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_251
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 69
+        width: 245
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8412318534aa7d4299f4c387ac879aa
+      internalID: 21300502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_252
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 61
+        width: 106
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e10614d238c50446aec8cadf132f51c
+      internalID: 21300504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_253
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 361
+        height: 151
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c56a8b9a806e64ca134460e21e76c3
+      internalID: 21300506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_254
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 29
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93751d4708054e049b6de964c1c08bdc
+      internalID: 21300508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_255
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 3960
+        width: 68
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6e74b9cbf62a445afcdc4ead5405f1
+      internalID: 21300510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_256
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 3960
+        width: 68
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381f5bae2790ddc49816673bd656df98
+      internalID: 21300512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_257
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 3960
+        width: 68
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb28e1a88733894a868b49396f7697b
+      internalID: 21300514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_258
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 3960
+        width: 69
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2018733c4da5e6a42b9a54ba91df0c8f
+      internalID: 21300516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_259
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 3960
+        width: 70
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40be9b2c390acf84da7db449afae4fd1
+      internalID: 21300518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_260
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3166
+        width: 76
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74189de0a20cfc46a74a4c160b00dbc
+      internalID: 21300520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - JoJos Bizarre Adventure - DIO Jacket Boss_261
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2556
+        width: 78
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c12bbe2021fff30800000000000000
+      internalID: 4611424347204230157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: aa1ca5d4216869e48ae0b4212455539a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
